@@ -1,0 +1,6 @@
+{
+    "extends": [
+        "@ucudal/stylelint-config",
+        "stylelint-prettier/recommended"
+    ]
+}
